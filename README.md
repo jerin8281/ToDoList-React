@@ -1,12 +1,12 @@
 # ToDoList-React
 
 ## Table of Contents
-- Description
-- Features
-- Technologies
-- Installation
-- Usage
-- Screenshots
+- [Description](#Description)
+- [Features](#Features)
+- [Technologies](#Technologies)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Screnshots](#Screnshots)
 
 ## Description
 This is a simple ToDo List application built with React.
